@@ -1,5 +1,5 @@
 [package]
-name = "single-web"
+name = "rust-web"
 version = "0.1.0"
 edition = "2018"
 
